@@ -1,7 +1,7 @@
 # youtube_dowloader_telegrambot
 
 
-This telegram bot - allows people to download video with a choice of quality of a video.
+This telegram bot - allows people to download video with a choice of quality of a video. Also change the TOKEN, to the one of yours since invalid TOKEN was placed there.
 List of technologies, I used:
 
 aiofiles==23.2.1
